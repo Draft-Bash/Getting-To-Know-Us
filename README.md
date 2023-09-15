@@ -1,2 +1,2 @@
-# Hello World Azure Static Website Template
-Credit to Eric Pogue for the template
+# Getting to know us
+A repository for getting to know the creators behind DraftBash
